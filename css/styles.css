@@ -1,0 +1,29 @@
+html {
+    font: 300 1em "Poppins", sans-serif;
+}
+
+#header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#site-name {
+    font-size: 2em;
+    margin: 27px 0 27px 21px;
+    text-shadow: 0 4px 4px lightgrey;
+}
+
+#intro {
+    color: red;
+    margin-left: 27px;
+}
+
+#content {
+    color: orangered;
+    margin-left: 27px;
+}
+
+#link {
+    margin-left: 27px;
+}
